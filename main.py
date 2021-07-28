@@ -13,7 +13,7 @@ def main():
   print(f'{target} is at index {binarySearch(values, target)}.' )
 #bubblesort
   print(f'{bubbleSort(usValues)}')
-
+#mergeSort
   print(mergeSort(usValues))
 
 
